@@ -1,0 +1,16 @@
+payload:
+  - DOMAIN,www.msftconnecttest.com   #win10网络显示正常的小电脑
+  - DOMAIN-SUFFIX,steamcontent.com  #steam下载直连
+  - DOMAIN-SUFFIX,m-team.cc  #pt站
+
+
+
+
+# DOMAIN-SUFFIX 表示包含什么后缀的域名
+# IP-CIDR IPV4匹配
+# IP-CIDR6 IPV6匹配
+# DOMAIN-KEYWORD,xxx 表示包含 xxx域名关键字的链接
+# DOMAIN abc.hello.com 表示包含完整的域名
+# PROCESS-NAME 表示进程名称
+# GEOIP 数据库（国家代码）匹配	
+# MATCH 全匹配（一般放在最后）
