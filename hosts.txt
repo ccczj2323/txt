@@ -1,0 +1,3 @@
+#
+#www.msftconnecttest.com 23.193.97.91
+#www.msftncsi.com 23.45.232.33
