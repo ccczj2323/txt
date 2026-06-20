@@ -73,6 +73,8 @@ gpsoft.com.au
 directoryopus.com
 gpsoft.com.au
 
+#makerworld
+makerworld.com
 ###################ai访问大混杂######################
 #OpenAI_ChatGPT
 openai.com
